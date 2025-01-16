@@ -1,4 +1,5 @@
-This is a demo how to use auth for Web3 and Account Abstraction. 
+This is a demo how to use auth for Web3 and Account Abstraction. \
+Gasless Transactions can be configured [here](https://github.com/freelook/web3-auth-demo/blob/main/src/components/web3auth/web3auth.tsx#L90) via [Sponsorship Policy](https://docs.pimlico.io/infra/platform/sponsorship-policies).
 
 ## Installation
 
