@@ -1,0 +1,32 @@
+{
+  "name": "web3-auth-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@web3auth/base": "latest",
+    "@web3auth/ethereum-provider": "latest",
+    "@web3auth/modal": "latest",
+    "@web3auth/web3auth-wagmi-connector": "latest",
+    "next": "^14",
+    "permissionless": "latest",
+    "react": "^18",
+    "react-dom": "^18",
+    "viem": "latest",
+    "wagmi": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
